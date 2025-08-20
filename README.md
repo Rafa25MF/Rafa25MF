@@ -2,15 +2,15 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=5B9CF3&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Rafael+Mistura!;Web+%26+Backend+Developer;From+Brazil+🇧🇷;Welcome+to+my+GitHub!+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=5B9CF3&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Rafael+Mistura!;Web+%26+Backend+Developer;Welcome+to+my+GitHub!+👋" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafa25MF&layout=compact&langs_count=6&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa25MF0&show_icons=true&count_private=true&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafa25MF0&layout=compact&langs_count=6&hide_border=true&title_color=5b9cf3&icon_color=5b9cf3&text_color=5b9cf3&bg_color=0d1117" />
 </div>
 
 ---
@@ -35,7 +35,7 @@
 ## 📫 &nbsp;Connect with Me
 
 <div align="center">
-  <a href="www.linkedin.com/in/rafael-mistura-02505r/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-mistura-01900037b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
@@ -43,8 +43,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/rafael-mistura-02505/" width="70%" />
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="70%" />
 </div>
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer"/>
