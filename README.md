@@ -46,10 +46,12 @@
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="70%" />
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=054aa7&color_dots=#5b9cf3,#3a7bd5,#1e5fbf,#0d47a1,#08306b">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=054aa7&color_dots=#5b9cf3,#3a7bd5,#1e5fbf,#0d47a1,#08306b">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=054aa7&color_dots=#5b9cf3,#3a7bd5,#1e5fbf,#0d47a1,#08306b">
+</picture>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer"/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
