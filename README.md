@@ -43,8 +43,9 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="70%" />
+  <img src="www.linkedin.com/in/rafael-mistura-02505/" width="70%" />
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer"/>
 
