@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="www.linkedin.com/in/rafael-mistura-02505/" width="70%" />
+  <img src="https://www.linkedin.com/in/rafael-mistura-02505/" width="70%" />
 </div>
 
 
