@@ -47,10 +47,14 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=054aa7&color_dots=#5b9cf3,#3a7bd5,#1e5fbf,#0d47a1,#08306b">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=054aa7&color_dots=#5b9cf3,#3a7bd5,#1e5fbf,#0d47a1,#08306b">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=054aa7&color_dots=#5b9cf3,#3a7bd5,#1e5fbf,#0d47a1,#08306b">
+  <!-- Dark Mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=4FC3F7&color_dots=#BBDEFB,#90CAF9,#64B5F6,#42A5F5,#2196F3">
+  <!-- Light Mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=1976D2&color_dots=#E3F2FD,#BBDEFB,#90CAF9,#64B5F6,#42A5F5">
+  <!-- Fallback -->
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=2196F3&color_dots=#BBDEFB,#90CAF9,#64B5F6,#42A5F5,#1E88E5">
 </picture>
+
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer"/>
