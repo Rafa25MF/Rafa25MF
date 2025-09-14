@@ -75,7 +75,7 @@
     <!-- Card 2 -->
     <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="left" />
-      <h3 align="left">💬 PlanilhaBot</h3>
+      <h3 align="left">💬 SheetChat</h3>
       <p align="left">
         Chatbot inteligente para analizar planilhas Excel/CSV, responde perguntas sobres elas.
       </p>
