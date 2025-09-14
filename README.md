@@ -21,11 +21,12 @@
 
   <!-- GitHub Stats -->
   <img 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=blueberry&include_all_commits=true&locale=pt-br" 
-      height="200"
-      style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,50,100,0.5);"
+     alt="GitHub Stats" 
+     src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=blueberry&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
+     height="200"
+     style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,50,100,0.5);"
   />
+
 
   <!-- Top Languages -->
   <img 
