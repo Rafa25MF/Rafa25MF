@@ -73,7 +73,22 @@
         <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
-    <!-- Card 2 -->
+    <!-- Card 2 (Site Contabilidade) -->
+    <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
+      <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      </div>
+      <h3>🧾 Site Contabilidade</h3>
+      <p>
+        Site institucional de contabilidade, moderno e responsivo, com páginas de serviços, sobre e contato.
+      </p>
+      <a href="https://github.com/Rafa25MF/Site-Contabilidade">
+        <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <!-- Card 3 -->
     <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="left" />
       <h3 align="left">💬 SheetChat</h3>
@@ -88,6 +103,7 @@
 </table>
 
 </div>
+
 
 ---
 
