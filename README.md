@@ -62,7 +62,7 @@
 <table>
   <tr>
     <!-- Card 1 -->
-    <td align="center" width="300" height="180" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; margin: 10px;">
+    <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="left" />
       <h3 align="left">📚 BOOKROUT</h3>
       <p align="left">
@@ -72,10 +72,22 @@
         <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
+    <!-- Card 2 -->
+    <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="left" />
+      <h3 align="left">💬 PlanilhaBot</h3>
+      <p align="left">
+        Chatbot inteligente para analizar planilhas Excel/CSV, responde perguntas sobres elas.
+      </p>
+      <a href="https://github.com/seu-usuario/planilha-bot">
+        <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
 
 </div>
+
 ---
 
 ## 📫 &nbsp;Connect with Me
