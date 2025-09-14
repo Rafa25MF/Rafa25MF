@@ -31,10 +31,12 @@
   <!-- Top Languages -->
   <img 
     alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa25MF&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa25MF&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9&include_forks=true" 
     height="200"
     style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,50,100,0.5);"
   />
+
+
 
 </div>
 
