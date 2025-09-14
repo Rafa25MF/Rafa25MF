@@ -79,7 +79,7 @@
       <p align="left">
         Chatbot inteligente para analizar planilhas Excel/CSV, responde perguntas sobres elas.
       </p>
-      <a href="https://github.com/seu-usuario/planilha-bot">
+      <a href="https://github.com/Rafa25MF/SheetChat/blob/main/SheetChat.py">
         <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
