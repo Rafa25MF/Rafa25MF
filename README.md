@@ -12,53 +12,27 @@
 
 </div>
 
+---
+
+### 🚀 My Stacks
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 
 ---
 
-### 📊 Statistics
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; width: 100%;">
-
-  <!-- GitHub Stats -->
-  <img 
-     alt="GitHub Stats" 
-     src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=blueberry&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
-     height="200"
-     style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,50,100,0.5);"
-  />
-
-
-  <!-- Top Languages -->
-  <img 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa25MF&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9&include_forks=true" 
-    height="200"
-    style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,50,100,0.5);"
-  />
-
-
-
-</div>
-
-
-
----
-
-
-## 🛠️ &nbsp;Tech Stack
+### 📊 Statistics of GitHub
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa25MF&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 Featured Projects
 
 <div align="center">
 
