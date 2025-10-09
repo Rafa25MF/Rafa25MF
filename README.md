@@ -28,8 +28,8 @@
 ### 📊 Statistics of GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=transparent&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa25MF&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa2MF&show_icons=true&theme=transparent&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa2MF&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ---
