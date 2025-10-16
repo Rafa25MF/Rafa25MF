@@ -18,10 +18,12 @@
 <div align="center">
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/></code>
+  <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" title="HTML5"/></code>
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" title="JavaScript"/></code>
+  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png?f=webp" title="PHP"/></code>
 </div>
+
 
 ---
 
@@ -57,9 +59,9 @@
     <!-- Card 2 (Site Contabilidade) -->
     <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
       <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+        <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" height="40" alt="HTML5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" height="40" alt="JavaScript" />
       </div>
       <h3>🧾 Site Contabilidade</h3>
       <p>
