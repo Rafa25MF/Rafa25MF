@@ -1,0 +1,111 @@
+<p align="right">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/PT--BR-6B7280?style=for-the-badge" alt="Português" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/EN-054AA7?style=for-the-badge" alt="English" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header"/>
+
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #0A192F, #112D4E); border-radius: 20px; box-shadow: 0 8px 20px rgba(0, 0, 50, 0.4); width: fit-content; margin: auto;">
+
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=3500&pause=1000&color=5B9CF3&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Rafael+Mistura!;🚀+Web+%26+Backend+Developer;👋+Welcome+to+my+GitHub!"
+      alt="Typing animation"
+      style="border-radius: 15px;"
+    />
+  </a>
+
+</div>
+
+---
+
+### 🚀 My Tech Stack
+
+<div align="center">
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/></code>
+  <code><img width="40px" src="https://skillicons.dev/icons?i=java&theme=light" title="Java" alt="Java"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL"/></code>
+  <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" title="HTML5" alt="HTML5"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/></code>
+  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" title="JavaScript" alt="JavaScript"/></code>
+  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png?f=webp" title="PHP" alt="PHP"/></code>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/Rafa25MF">
+    <img height="180em" src="./profile/github-stats.svg" alt="GitHub statistics" />
+    <img height="180em" src="./profile/top-langs.svg" alt="Most used languages" />
+  </a>
+</div>
+
+---
+
+## 🔬 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="left" alt="Python" />
+      <h3 align="left">📚 BOOKROUT</h3>
+      <p align="left">
+        A project designed to make libraries more efficient, with a focus on organization and automation.
+      </p>
+      <a href="https://share.google/Kmlw5JZTpGzKO47dd">
+        <img src="https://img.shields.io/badge/View%20Project-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View BOOKROUT project" />
+      </a>
+    </td>
+    <!-- Card 2 -->
+    <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
+      <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" height="40" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" height="40" alt="JavaScript" />
+      </div>
+      <h3>🧾 Accounting Website</h3>
+      <p>
+        A modern and responsive corporate accounting website featuring services, about and contact pages.
+      </p>
+      <a href="https://github.com/Rafa25MF/Site-Contabilidade">
+        <img src="https://img.shields.io/badge/View%20Project-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Accounting Website project" />
+      </a>
+    </td>
+    <!-- Card 3 -->
+    <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" align="left" alt="Node.js" />
+      <h3 align="left">🦷 Zendoc</h3>
+      <p align="left">
+        A dental clinic management platform featuring scheduling, patient records, finances, inventory and integrated WhatsApp support.
+      </p>
+      <a href="https://github.com/Rafa25MF/Zendoc">
+        <img src="https://img.shields.io/badge/View%20Project-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="View Zendoc project" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📫 &nbsp;Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-mistura-01900037b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafaelfm2505@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
