@@ -1,0 +1,41 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-estatisticas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v6
+
+      - name: Gerar estatísticas gerais
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Rafa25MF&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true
+          path: profile/github-stats.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Gerar linguagens mais utilizadas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Rafa25MF&layout=compact&langs_count=7&theme=transparent&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Salvar estatísticas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Atualiza estatísticas do perfil" || exit 0
+          git push
