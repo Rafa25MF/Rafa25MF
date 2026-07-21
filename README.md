@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/PT--BR-054AA7?style=for-the-badge" alt="Português" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/EN-6B7280?style=for-the-badge" alt="English" />
+  </a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=header"/>
 
 <div align="center" style="padding: 20px; background: linear-gradient(135deg, #0A192F, #112D4E); border-radius: 20px; box-shadow: 0 8px 20px rgba(0, 0, 50, 0.4); width: fit-content; margin: auto;">
@@ -75,13 +84,13 @@
     </td>
     <!-- Card 3 -->
     <td align="center" width="300" style="background-color: rgba(0,122,204,0.1); border: 2px solid #007ACC; border-radius: 12px; padding: 15px; vertical-align: top;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" align="left" />
-      <h3 align="left">💬 SheetChat</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" align="left" alt="Node.js" />
+      <h3 align="left">🦷 Zendoc</h3>
       <p align="left">
-        Chatbot inteligente para analizar planilhas Excel/CSV, responde perguntas sobres elas.
+        Plataforma para gestão de clínicas odontológicas, com agenda, prontuário, financeiro, estoque e atendimento integrado ao WhatsApp.
       </p>
-      <a href="https://github.com/Rafa25MF/SheetChat">
-        <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/Rafa25MF/Zendoc">
+        <img src="https://img.shields.io/badge/Acessar%20Projeto-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Acessar projeto Zendoc" />
       </a>
     </td>
   </tr>
