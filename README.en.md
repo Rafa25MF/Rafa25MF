@@ -109,3 +109,23 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
+
+---
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="70%" />
+</div>
+
+<picture align="center">
+  <!-- Dark Mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=4FC3F7&color_dots=#BBDEFB,#90CAF9,#64B5F6,#42A5F5,#2196F3">
+  <!-- Light Mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=1976D2&color_dots=#E3F2FD,#BBDEFB,#90CAF9,#64B5F6,#42A5F5">
+  <!-- Fallback -->
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rafa25MF/Rafa25MF/output/github-contribution-grid-snake.svg?color_snake=2196F3&color_dots=#BBDEFB,#90CAF9,#64B5F6,#42A5F5,#1E88E5">
+</picture>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=054aa7&height=120&section=footer"/>
