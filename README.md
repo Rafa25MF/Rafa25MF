@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/Rafa25MF">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa25MF&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa25MF&layout=compact&langs_count=7&theme=transparent&hide_border=true" alt="Top Languages" />
   </a>
 </div>
