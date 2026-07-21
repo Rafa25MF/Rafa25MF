@@ -15,13 +15,15 @@
 ---
 
 ### 🚀 Minhas Stacks
+
 <div align="center">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/></code>
-  <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" title="HTML5"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
-  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" title="JavaScript"/></code>
-  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png?f=webp" title="PHP"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python"/></code>
+  <code><img width="40px" src="https://skillicons.dev/icons?i=java&theme=light" title="Java" alt="Java"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL"/></code>
+  <code><img width="40px" src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" title="HTML5" alt="HTML5"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/></code>
+  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" title="JavaScript" alt="JavaScript"/></code>
+  <code><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png?f=webp" title="PHP" alt="PHP"/></code>
 </div>
 
 
